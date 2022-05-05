@@ -36,3 +36,9 @@ public class FindCommonElementInThree {
           commonElements(arr1, arr2, arr3);
      }
 }
+
+/* Output : 
+7
+20
+80
+*/
